@@ -1,13 +1,77 @@
-# LeetCode Solutions
+# 🚀 LeetCode Solutions
 
-This repository contains my LeetCode solutions while preparing for software engineering placements.
+Welcome to my LeetCode repository!
 
-## Language
+This repository contains my solutions to LeetCode problems as I prepare for software engineering interviews and placements.
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Interested in Software Development, Cybersecurity & AI
+- 🐍 Solving problems in Python 3
+- 🎯 Goal: Strengthen Data Structures & Algorithms for placements
+
+---
+
+## 🛠 Language
+
 - Python 3
 
-## Progress
+---
 
-| Problem | Difficulty | Status |
-|---------|------------|--------|
-| 0001 - Two Sum | Easy | ✅ |
+## 📚 Topics Covered
+
+- Arrays
+- Strings
+- Hash Maps
+- Linked Lists
+- Stacks
+- Queues
+- Binary Search
+- Trees
+- Graphs
+- Heaps
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
+
+---
+
+## 📈 Progress
+
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| 0001 - Two Sum | 🟢 Easy | ✅ |
+
+---
+
+## 📌 Repository Structure
+
+```
+leetcode-solutions/
+│
+├── Arrays/
+├── Strings/
+├── Hashing/
+├── Linked_List/
+├── Stack/
+├── Queue/
+├── Binary_Search/
+├── Trees/
+├── Graphs/
+├── Heap/
+├── Dynamic_Programming/
+├── Backtracking/
+└── README.md
+```
+
+---
+
+## 🎯 Goal
+
+Solve LeetCode problems consistently while improving problem-solving skills and preparing for technical interviews.
+
+⭐ Feel free to explore the solutions!
 
