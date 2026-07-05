@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems as I prepare for soft
 |---------|------------|----------|
 | 0001 - Two Sum | 🟢 Easy | ✅ |
 | 0121 - Best Time To Buy And Sell Stock | 🟢 Easy | ✅ |
+| 0217 - Contains Duplicate | 🟢 Easy | ✅ |
 
 ---
 
