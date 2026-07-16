@@ -64,6 +64,8 @@ This repository contains my solutions to LeetCode problems as I prepare for soft
 | **0704 - Binary Search** | 🟢 Easy | Binary Search | ✅ |
 | **0977 - Squares of a Sorted Array** | 🟢 Easy | Two Pointers | ✅ |
 | **1343 - Number of Sub-arrays of Size K and Average ≥ Threshold** | 🟡 Medium | Fixed Sliding Window | ✅ |
+| **1768	Merge Strings Alternately** |	🟢 Easy	 |Two Pointers|✅ |
+|**2656	Maximum Sum With Exactly K Elements** |	🟢 Easy |	Arrays, Math|✅ |
 | **1456 - Maximum Number of Vowels in a Substring of Given Length** | 🟢 Easy | Fixed Sliding Window | ✅ |
 | **2379 - Minimum Recolors to Get K Consecutive Black Blocks** | 🟢 Easy | Fixed Sliding Window | ✅ |
 
