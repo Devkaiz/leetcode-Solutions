@@ -60,12 +60,17 @@ This repository contains my solutions to LeetCode problems as I prepare for soft
 | 0283 - Move Zeroes | 🟢 Easy | Two Pointers | ✅ |
 | 0290 - Word Pattern | 🟢 Easy | HashMap, Two-Way Mapping | ✅ |
 | 0344 - Reverse String | 🟢 Easy | Two Pointers | ✅ |
+| 0347 - Top K Frequent Elements | 🟡 Medium | HashMap, Sorting | ✅ |
 | 0349 - Intersection of Two Arrays | 🟢 Easy | HashSet | ✅ |
 | 0350 - Intersection of Two Arrays II | 🟢 Easy | HashMap, Frequency Count | ✅ |
 | 0392 - Is Subsequence | 🟢 Easy | Two Pointers | ✅ |
+| 0409 - Longest Palindrome | 🟢 Easy | HashMap, Frequency Count | ✅ |
 | 0438 - Find All Anagrams in a String | 🟡 Medium | Sliding Window, Frequency Map | ✅ |
+| 0451 - Sort Characters By Frequency | 🟡 Medium | HashMap, Sorting | ✅ |
+| 0567 - Permutation in String | 🟡 Medium | Sliding Window | ✅ |
 | 0643 - Maximum Average Subarray I | 🟢 Easy | Fixed Sliding Window | ✅ |
 | 0704 - Binary Search | 🟢 Easy | Binary Search | ✅ |
+| 0739 - Daily Temperatures | 🟡 Medium | Monotonic Stack | ✅ |
 | 0977 - Squares of a Sorted Array | 🟢 Easy | Two Pointers | ✅ |
 | 1343 - Number of Sub-arrays of Size K and Average ≥ Threshold | 🟡 Medium | Fixed Sliding Window | ✅ |
 | 1456 - Maximum Number of Vowels in a Substring of Given Length | 🟢 Easy | Fixed Sliding Window | ✅ |
@@ -73,6 +78,7 @@ This repository contains my solutions to LeetCode problems as I prepare for soft
 | 2379 - Minimum Recolors to Get K Consecutive Black Blocks | 🟢 Easy | Fixed Sliding Window | ✅ |
 | 2656 - Maximum Sum With Exactly K Elements | 🟢 Easy | Arrays, Math | ✅ |
 | 2824 - Count Pairs Whose Sum is Less than Target | 🟢 Easy | Two Pointers, Sorting | ✅ |
+
 ---
 
 ## 📌 Repository Structure
