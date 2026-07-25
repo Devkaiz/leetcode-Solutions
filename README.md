@@ -70,6 +70,7 @@ This repository contains my solutions to LeetCode problems as I prepare for soft
 | 0496 - Next Greater Element I | 🟢 Easy | Monotonic Stack, HashMap | ✅ |
 | 0567 - Permutation in String | 🟡 Medium | Sliding Window | ✅ |
 | 0643 - Maximum Average Subarray I | 🟢 Easy | Fixed Sliding Window | ✅ |
+| 0682 - Baseball Game | 🟢 Easy | Stack Simulation | ✅ |
 | 0704 - Binary Search | 🟢 Easy | Binary Search | ✅ |
 | 0739 - Daily Temperatures | 🟡 Medium | Monotonic Stack | ✅ |
 | 0977 - Squares of a Sorted Array | 🟢 Easy | Two Pointers | ✅ |
@@ -79,7 +80,7 @@ This repository contains my solutions to LeetCode problems as I prepare for soft
 | 2379 - Minimum Recolors to Get K Consecutive Black Blocks | 🟢 Easy | Fixed Sliding Window | ✅ |
 | 2656 - Maximum Sum With Exactly K Elements | 🟢 Easy | Arrays, Math | ✅ |
 | 2824 - Count Pairs Whose Sum is Less than Target | 🟢 Easy | Two Pointers, Sorting | ✅ |
-0496_Next_Greater_Element_I.py
+
 
 ---
 
