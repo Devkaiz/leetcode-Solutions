@@ -67,6 +67,7 @@ This repository contains my solutions to LeetCode problems as I prepare for soft
 | 0409 - Longest Palindrome | 🟢 Easy | HashMap, Frequency Count | ✅ |
 | 0438 - Find All Anagrams in a String | 🟡 Medium | Sliding Window, Frequency Map | ✅ |
 | 0451 - Sort Characters By Frequency | 🟡 Medium | HashMap, Sorting | ✅ |
+| 0496 - Next Greater Element I | 🟢 Easy | Monotonic Stack, HashMap | ✅ |
 | 0567 - Permutation in String | 🟡 Medium | Sliding Window | ✅ |
 | 0643 - Maximum Average Subarray I | 🟢 Easy | Fixed Sliding Window | ✅ |
 | 0704 - Binary Search | 🟢 Easy | Binary Search | ✅ |
@@ -78,6 +79,7 @@ This repository contains my solutions to LeetCode problems as I prepare for soft
 | 2379 - Minimum Recolors to Get K Consecutive Black Blocks | 🟢 Easy | Fixed Sliding Window | ✅ |
 | 2656 - Maximum Sum With Exactly K Elements | 🟢 Easy | Arrays, Math | ✅ |
 | 2824 - Count Pairs Whose Sum is Less than Target | 🟢 Easy | Two Pointers, Sorting | ✅ |
+0496_Next_Greater_Element_I.py
 
 ---
 
