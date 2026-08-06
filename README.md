@@ -30,12 +30,13 @@
 |----------|:------:|:------:|
 | 📦 Arrays | **7** | ✅ |
 | 🗺️ HashMap | **9** | ✅ |
-| 👆 Two Pointers | **10** | ✅ |
+| 👆 Two Pointers | **13** | ✅ |
 | 🪟 Sliding Window | **8** | ✅ |
 | 📚 Stack | **8** | ✅ |
 | 📈 Monotonic Stack | **2** | ✅ |
 | 🔍 Binary Search | **1** | ✅ |
-| 🔗 Linked List | **11** | ✅ |
+| 🔗 Linked List | **15** | ✅ |
+| 🧮 Math / Simulation | **1** | ✅ |
 | 🌳 Trees | **0** | ⏳ |
 | ⚡ Heap | **0** | ⏳ |
 | 🌐 Graphs | **0** | ⏳ |
@@ -55,6 +56,7 @@
 ├── 📁 Sliding_Window
 ├── 📁 Stack
 ├── 📁 Two_Pointers
+├── 📁 Math
 ├── 📁 Trees
 ├── 📁 Graphs
 ├── 📁 Heap
@@ -66,7 +68,9 @@
 ## 📝 Solved Problems
 
 <details>
-<summary><b>Click to view all solved problems (50+)</b></summary>
+<summary><b>Click to view all solved problems (60+)</b></summary>
+
+  
 | Problem | Difficulty | Pattern | Solution |
 |---------|:----------:|---------|:--------:|
 | 0001 - Two Sum | 🟢 Easy | HashMap | ✅ |
@@ -78,9 +82,11 @@
 | 0026 - Remove Duplicates from Sorted Array | 🟢 Easy | Two Pointers | ✅ |
 | 0027 - Remove Element | 🟢 Easy | Two Pointers | ✅ |
 | 0083 - Remove Duplicates from Sorted List | 🟢 Easy | Linked List, Traversal | ✅ |
+| 0092 - Reverse Linked List II | 🟡 Medium | Linked List, Pointer Manipulation, Reverse Linked List | ✅ |
 | 0121 - Best Time To Buy And Sell Stock | 🟢 Easy | Arrays | ✅ |
 | 0125 - Valid Palindrome | 🟢 Easy | Two Pointers | ✅ |
 | 0141 - Linked List Cycle | 🟢 Easy | Linked List, Fast & Slow Pointers | ✅ |
+| 0143 - Reorder List | 🟡 Medium | Linked List, Fast & Slow Pointers, Reverse Linked List | ✅ |
 | 0150 - Evaluate Reverse Polish Notation | 🟡 Medium | Stack | ✅ |
 | 0160 - Intersection of Two Linked Lists | 🟢 Easy | Linked List, Two Pointers | ✅ |
 | 0167 - Two Sum II - Input Array Is Sorted | 🟡 Medium | Two Pointers | ✅ |
@@ -91,6 +97,7 @@
 | 0217 - Contains Duplicate | 🟢 Easy | HashSet | ✅ |
 | 0219 - Contains Duplicate II | 🟢 Easy | HashMap | ✅ |
 | 0234 - Palindrome Linked List | 🟢 Easy | Fast & Slow Pointers, Reverse Linked List | ✅ |
+| 0237 - Delete Node in a Linked List | 🟢 Easy | Linked List, Pointer Manipulation | ✅ |
 | 0242 - Valid Anagram | 🟢 Easy | HashMap, Frequency Count | ✅ |
 | 0283 - Move Zeroes | 🟢 Easy | Two Pointers | ✅ |
 | 0290 - Word Pattern | 🟢 Easy | HashMap, Two-Way Mapping | ✅ |
@@ -114,6 +121,8 @@
 | 0739 - Daily Temperatures | 🟡 Medium | Monotonic Stack | ✅ |
 | 0844 - Backspace String Compare | 🟢 Easy | Stack | ✅ |
 | 0876 - Middle of the Linked List | 🟢 Easy | Linked List, Fast & Slow Pointers | ✅ |
+| 0905 - Sort Array By Parity | 🟢 Easy | Two Pointers | ✅ |
+| 0917 - Reverse Only Letters | 🟢 Easy | Two Pointers | ✅ |
 | 0977 - Squares of a Sorted Array | 🟢 Easy | Two Pointers | ✅ |
 | 1047 - Remove All Adjacent Duplicates In String | 🟢 Easy | Stack | ✅ |
 | 1290 - Convert Binary Number in a Linked List to Integer | 🟢 Easy | Linked List, Binary Conversion | ✅ |
@@ -127,8 +136,10 @@
 | 1929 - Concatenation of Array | 🟢 Easy | Arrays | ✅ |
 | 2379 - Minimum Recolors to Get K Consecutive Black Blocks | 🟢 Easy | Sliding Window | ✅ |
 | 2390 - Removing Stars From a String | 🟢 Easy | Stack | ✅ |
+| 2540 - Minimum Common Value | 🟢 Easy | Two Pointers | ✅ |
 | 2656 - Maximum Sum With Exactly K Elements | 🟢 Easy | Arrays, Math | ✅ |
 | 2824 - Count Pairs Whose Sum is Less than Target | 🟢 Easy | Two Pointers, Sorting | ✅ |
+| 3345 - Smallest Divisible Digit Product I | 🟢 Easy | Math, Simulation | ✅ |
 
 </details>
 
